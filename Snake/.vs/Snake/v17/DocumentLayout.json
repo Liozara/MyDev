@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyDev\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425294A8-E340-41D9-8214-AD0DA47F7503}|Snake\\Snake.vcxproj|E:\\MyDev\\Snake\\Snake\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{425294A8-E340-41D9-8214-AD0DA47F7503}|Snake\\Snake.vcxproj|solutionrelative:Snake\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake.cpp",
+              "DocumentMoniker": "E:\\MyDev\\Snake\\Snake\\Snake.cpp",
+              "RelativeDocumentMoniker": "Snake\\Snake.cpp",
+              "ToolTip": "E:\\MyDev\\Snake\\Snake\\Snake.cpp",
+              "RelativeToolTip": "Snake\\Snake.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T13:47:29.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
