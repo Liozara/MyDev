@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Werror -std=c++17 -g -Wl,--dependency-file=CMakeFiles/Learn_cpp.dir/link.d CMakeFiles/Learn_cpp.dir/src/main.cpp.o -o Learn_cpp

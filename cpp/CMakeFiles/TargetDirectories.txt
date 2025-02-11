@@ -1,0 +1,3 @@
+/home/lioza/Documents/MyDev/cpp/CMakeFiles/Learn_cpp.dir
+/home/lioza/Documents/MyDev/cpp/CMakeFiles/edit_cache.dir
+/home/lioza/Documents/MyDev/cpp/CMakeFiles/rebuild_cache.dir
