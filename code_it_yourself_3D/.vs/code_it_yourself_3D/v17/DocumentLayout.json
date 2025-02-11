@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyDev\\code_it_yourself_3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2459BDC-B305-4EC2-B04F-C94F992A0B65}|code_it_yourself_3D\\code_it_yourself_3D.vcxproj|E:\\MyDev\\code_it_yourself_3D\\code_it_yourself_3D\\code_it_yourself_3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C2459BDC-B305-4EC2-B04F-C94F992A0B65}|code_it_yourself_3D\\code_it_yourself_3D.vcxproj|solutionrelative:code_it_yourself_3D\\code_it_yourself_3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "code_it_yourself_3D.cpp",
+              "DocumentMoniker": "E:\\MyDev\\code_it_yourself_3D\\code_it_yourself_3D\\code_it_yourself_3D.cpp",
+              "RelativeDocumentMoniker": "code_it_yourself_3D\\code_it_yourself_3D.cpp",
+              "ToolTip": "E:\\MyDev\\code_it_yourself_3D\\code_it_yourself_3D\\code_it_yourself_3D.cpp",
+              "RelativeToolTip": "code_it_yourself_3D\\code_it_yourself_3D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T09:42:46.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
